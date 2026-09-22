@@ -1,0 +1,7 @@
+bin/
+obj/
+_reference/
+# Keep the dependency directory in the repository, but never commit its DLLs.
+/Libs/*
+!/Libs/.gitkeep
+.vs/
