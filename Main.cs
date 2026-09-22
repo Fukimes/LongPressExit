@@ -7,7 +7,7 @@ namespace LongPressExit
     public static class BuildInfo
     {
         public const string Name = "LongPressExit";
-        public const string Description = "为原版DLL添加长按退出功能，并支持空格键TrackSkip。";
+        public const string Description = "为原版DLL添加长按退出功能，并支持按键TrackSkip。";
         public const string Author = "Fukimes";
         public const string Version = "1.0.0";
     }
