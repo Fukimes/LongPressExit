@@ -73,7 +73,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net472" Version="1.0.3" PrivateAssets="all" />
     <None Include="README.md" />
-    <None Include="patch\报告.patch" />
   </ItemGroup>
 </Project>
 
